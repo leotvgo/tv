@@ -34,6 +34,17 @@
       "jar": "https://gitlab.com/leo3975408/leocloud/-/raw/main/leo/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
+      "key":"校长影视",
+      "name":"校长影视|网盘",
+      "type":3,
+      "api":"csp_XiaoZhang", 
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":60,
+      "jar": "https://raw.gitmirror.com/leotvgo/PG/main/pg.jar"
+      "ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
+    {
       "key": "荐片弹幕",
       "name": "LEO荐片DM",
       "type": 3,
