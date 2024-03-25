@@ -42,7 +42,7 @@
       "changeable":1, 
       "filterable":1, 
       "timeout":60,
-      "jar": "https://raw.gitmirror.com/leotvgo/PG/main/pg.jar"
+      "jar": "https://raw.gitmirror.com/leotvgo/PG/main/pg.jar",
       "ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
     {
       "key": "荐片弹幕",
