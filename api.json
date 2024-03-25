@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/leotvgo/duo/-/raw/main/pg.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/PG/main/pg.jar",
       "ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
     {
       "key": "荐片弹幕",
